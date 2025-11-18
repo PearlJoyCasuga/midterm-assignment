@@ -11,7 +11,7 @@
 # 📚 Liberian
 
 ## 🧾 Description / Overview
-**Liberian** is a **This Library Management System is a midterm examination project designed to provide librarians with a comprehensive tool for managing library resources. 
+**Liberian** is a This Library Management System is a midterm examination project designed to provide librarians with a comprehensive tool for managing library resources. 
 The system offers secure access exclusively to authorized librarian personnel, enabling efficient management of books, members, transactions, and library operations. 
 ---
 
@@ -69,3 +69,4 @@ Once the system is running:
 ## 🪪 License
 
 This project is licensed for Educational Purposes Only.
+
