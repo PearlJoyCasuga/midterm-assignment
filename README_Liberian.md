@@ -59,9 +59,9 @@ Once the system is running:
 
 ## Contributors
 
-👩‍💻 Pearl Joy Casuga
+👩‍💻 **Pearl Joy Casuga**
 
-👩‍💻 Rea Carl Solomon
+👩‍💻 **Rea Carl Solomon**
  
 
 ---
@@ -69,4 +69,5 @@ Once the system is running:
 ## 🪪 License
 
 This project is licensed for Educational Purposes Only.
+
 
